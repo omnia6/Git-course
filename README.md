@@ -1,3 +1,2 @@
-# Git-course
-Git course from Elzero
-## Project Notes
+# Landing Page project
+
